@@ -1,0 +1,147 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:lavender;
+}
+
+header{
+    width:80%;
+    background-color:lavender;
+    color:black;
+    margin-right:auto;
+    margin-left:auto;
+    border-style:dotted;
+    border-width:2px;
+    overflow:hidden;
+    
+}
+
+h1{
+  font-size:2em;  
+  margin:0;
+  padding:0;
+  padding-top:10px;
+  font-family: Papyrus, fantasy;
+  text-align:center;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26px;
+
+  
+}
+
+h2{
+   margin:10px;
+   font-size:1.6em; 
+   font-family:Papyrus, fantasy;
+   font-style:normal;
+}
+
+h3{
+   margin:10px;
+   font-size:1.2em;
+   font-family:Papyrus, fantasy;
+   text-decoration:underline;
+   
+}
+
+
+hgroup{
+    width:70%;
+    float:left;
+}
+
+nav{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+
+nav ul{
+    list-style-type:None;
+    }
+
+nav li{
+    display:inline;
+}
+
+.bar{
+   background-image: url(http://tamara.brunnock.com/images/purple_bar.gif);
+   height:40px;
+  
+}
+
+section{
+    padding-top:1em;
+    width:80%;
+    background-color:lavender;
+    margin-right:auto;
+    margin-left:auto;
+    clear: both;
+}
+
+#index{
+    padding-top:1em;
+    width:80%;
+    background-color:lavender;
+    margin-right:auto;
+    margin-left:auto;
+    border-style:dotted;
+    border-width:2px;
+    
+}
+#first{
+    float:left;
+    width:49%;
+    }
+
+#second{
+    float:right;
+    width:49%;
+    }
+
+
+p {
+   
+    margin:auto;
+    padding-left:10px;
+    padding-right:3px;
+    padding-bottom:5px;
+}
+
+img{
+    float:right;
+    margin:0px 0px 10px 10px;
+    box-shadow:3px 3px 5px 1px #cccccc;
+}
+
+
+footer{
+    width:80%;
+    background-color:lavender;
+    color:black;
+    border-style:dotted;
+    border-width:2px;
+    text-align:center;
+    font-size:x-small;
+    margin-right:auto;
+    margin-left:auto;
+    height:30px;
+  
+}  
+
+
+html#ecwid_html body#ecwid_body .ecwid-SingleProduct .ecwid-title {
+    font-size: 15px;
+    font-family: Papyrus, fantasy;
+    font-weight: 400;
+    padding-bottom: 5px;
+    padding-top: 7px;
+    word-wrap: break-word;
+}
+
+html#ecwid_html body#ecwid_body .ecwid-productBrowser-ProductPage
+p {
+    font-family: Papyrus, fantasy;
+    width: 50%;
+}

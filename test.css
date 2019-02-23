@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lavender;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+}
+
+@media only screen and (max-width: 500px) {
+    body {
+        background-color:lightblue;
+	}
+    [class*="col-"] {
+        width: 100%;
+    }
+}
+
+
+.header {
+    border: 1px solid red;
+    padding: 15px;
+}
+
+.left_col {
+    border: 1px solid blue;
+    padding: 15px;
+    float: left;
+    width: 25%;
+}
+
+.right_col {
+    border: 1px solid green;
+    padding: 15px;
+    float: left;
+    width: 75%;
+}
