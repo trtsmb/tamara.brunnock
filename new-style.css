@@ -94,7 +94,7 @@ li.dropdown {
     display: inline-block;
     background-color: #e6e6fa;   
 }
-
+/*
 <!--CSS for drop down pictures -->
 .dropdown {
     position: relative;
@@ -113,7 +113,7 @@ li.dropdown {
     display: inline-block;
     background-color: lavender;
 }
-/*
+
 .materials {
     font-family: Papyrus, fantasy;
     font-family: 'Handlee', cursive;
