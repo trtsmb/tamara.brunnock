@@ -66,7 +66,10 @@ li a, .dropbtn {
     
 }
 
-
+p 
+  {
+	  
+  }
 
 li.dropdown {
     display: inline-block;
