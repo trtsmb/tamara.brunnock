@@ -1,6 +1,6 @@
 import url('https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911|Handlee|Quintessential');
 
-body, #body1 {
+#body1 {
     font-family:Arial, Helvetica, sans-serif;
     background-color: red;
     color: black;
