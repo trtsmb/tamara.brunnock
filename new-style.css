@@ -97,6 +97,12 @@ li.dropdown {
     display: inline-block;
     background-color: #e6e6fa;   
 }
+
+#index{
+    max-width:60em;
+    margin:1em auto;
+    background-color: purple;
+    }
 /*
 <!--CSS for drop down pictures -->
 .dropdown {
@@ -132,10 +138,7 @@ li.dropdown {
     padding: 10px;
     }
 
-#index{
-    max-width:60em;
-    margin:1em auto;
-    }
+
 
 #index1{
     padding-top:1em;
