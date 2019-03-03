@@ -2,7 +2,7 @@
 */
 #body1 {
     font-family:Arial, Helvetica, sans-serif;
-    background-color: red;
+    background-color: lavender;
     color: black;
     }
 
@@ -101,7 +101,7 @@ li.dropdown {
 #index{
     max-width:60em;
     margin:1em auto;
-    background-color: purple;
+    
     }
 /*
 <!--CSS for drop down pictures -->
